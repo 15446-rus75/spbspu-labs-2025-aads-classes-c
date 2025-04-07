@@ -1,7 +1,7 @@
 #include <iostream>
 #include <stdexcept>
-#include <string>
 #include <functional>
+#include <string>
 
 template< class T >
 struct BiTree
